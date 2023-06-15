@@ -5,7 +5,6 @@
  * main - DISPLAY  "and that piece of art is useful"
  * HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
  * all gooooooooooooooooooooooood
- * ppppppppppppppppppppppppp
  */
 int main(void)
 {
