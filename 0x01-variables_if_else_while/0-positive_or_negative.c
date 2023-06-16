@@ -5,7 +5,7 @@
 /**
  * main - check if negative or positive
  * hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
- * All goooooooooooooooooooooooooooooooood
+ *  Return: Always 0 (Success)
  */
 int main(void)
 {
